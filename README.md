@@ -8,7 +8,7 @@ HTTP routes delegate to controllers, controllers translate HTTP input and output
 
 ## Technologies
 
-- Node.js and Express
+- Node.js and Express 
 - JavaScript
 - MongoDB and Mongoose
 - Mocha, Chai, and Chai HTTP
